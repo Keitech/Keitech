@@ -8,7 +8,7 @@ Currently a Growing Full Stack Developer!
 
 ## Contact
 
-<a target="_blank" href="https://www.keithtang.io/">![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a target="_blank" href="https://www.keithtang.me/">![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/keith-tang28/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:keithtang28@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
   
