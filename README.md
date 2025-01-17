@@ -3,7 +3,7 @@
 Currently a Growing Full Stack Developer!
 - 🔭 I’m currently working on Levelling Up
 - 🌱 I’m currently learning everything 🤣
-- 😄 2024 Goals: More Projects and Improve Algorithmic Thinking
+- 😄 2025 Goals: More Projects and Improve Algorithmic Thinking
 - ⚡ Fun fact: I Love Volleyball and Weightlifting!
 
 ## Contact
